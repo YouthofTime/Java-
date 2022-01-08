@@ -1,4 +1,4 @@
-package ch1面向对象.类和对象;
+package 类和对象;
 
 public class Hero {
     String name;

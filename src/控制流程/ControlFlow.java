@@ -1,4 +1,4 @@
-package ch1面向对象.控制流程;
+package 控制流程;
 
 import java.util.Scanner;
 

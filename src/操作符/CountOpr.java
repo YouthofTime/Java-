@@ -1,4 +1,4 @@
-package ch1面向对象.操作符;
+package 操作符;
 import java.util.*;
 public class CountOpr {
     public static void main(String[] args) {

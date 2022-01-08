@@ -1,4 +1,4 @@
-package ch1面向对象.变量;
+package 变量;
 
 public class AllPractice {
     final int j=3; // 必须初始化

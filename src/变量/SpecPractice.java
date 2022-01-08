@@ -1,4 +1,4 @@
-package ch1面向对象.变量;
+package 变量;
 
 public class SpecPractice {
         int i = 1; //属性名是i
